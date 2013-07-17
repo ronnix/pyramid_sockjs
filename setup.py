@@ -8,7 +8,7 @@ version='0.3.9'
 
 install_requires = ['setuptools',
                     'pyramid >= 1.3',
-                    'gevent >= 1.0rc2',
+                    'gevent >= 1.0rc2, == 1.0dev',
                     'gevent-websocket >= 0.3.6',
                     ]
 
